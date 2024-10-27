@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370584542252",
+    "project_id": "ai-psychepal",
+    "storage_bucket": "ai-psychepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370584542252:android:020eca526df438dc32c589",
+        "android_client_info": {
+          "package_name": "com.example.ai_psychepal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHE9XKS8xsPCcVjDVk7Sueq7VxU2sKbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
